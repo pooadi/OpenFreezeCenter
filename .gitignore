@@ -1,0 +1,10 @@
+PredictedOutputFrames/
+OutputFrames/
+FramesPathFile/
+InputVideo/
+*.pyc
+.idea/.name
+.idea/misc.xml
+*.iml
+.idea/*
+/Py_Src/converted1.wav
