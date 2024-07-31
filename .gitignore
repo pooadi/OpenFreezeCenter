@@ -8,3 +8,5 @@ InputVideo/
 *.iml
 .idea/*
 /Py_Src/converted1.wav
+nohup.out
+
